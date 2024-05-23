@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hello, I'm Joe MacMillan! 👋
+
+I'm a software developer with a passion for computing and devops projects and collaboration. I specialize in Python, Bash, and Azure cloud technologies.
+
+## 🔧 Technologies & Tools
+
+- Languages: Python, C++
+- Tools: Git, Docker, Kubernetes, Terraform
+- Cloud: Azure
